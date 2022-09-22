@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				56870,
+				[
+					[
+						"Play Animation",
+						"jesselook",
+						"BF"
+					]
+				]
+			],
+			[
+				56900,
+				[
+					[
+						"Play Animation",
+						"jesse",
+						"3"
+					]
+				]
+			],
+			[
+				57140,
+				[
+					[
+						"Change Character",
+						"BF",
+						"backdrogadic"
+					]
+				]
+			],
+			[
+				57172.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"backheisen"
+					]
+				]
+			],
+			[
+				57200,
+				[
+					[
+						"Play Animation",
+						"mrwhite",
+						"2"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfdrogadicto"
+					]
+				]
+			],
+			[
+				70427.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"heinzerberg"
+					]
+				]
+			]
+		]
+	}
+}

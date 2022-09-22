@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-259,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-67,
+				-494
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				-343
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-247,
+				-246
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-290,
+				-181
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/walterin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "waltlore-icon",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		0,
+		102
+	],
+	"camera_position": [
+		20,
+		350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

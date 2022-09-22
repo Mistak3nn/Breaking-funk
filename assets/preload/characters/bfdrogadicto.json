@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-7
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ALT-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-38
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ALT-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				12
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ALT-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-89
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ALT-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				47
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-13
+			],
+			"anim": "jesselook",
+			"fps": 24,
+			"name": "avr ese klo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-29,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_drogadicto",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		210,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
