@@ -43,11 +43,11 @@ function onUpdatePost(elapsed)
         setProperty('normal.y', getProperty('iconP1.y') - 30) 
 
 
-        setProperty('dead.x', getProperty('iconP1.x') + -209)
-        setProperty('dead.angle', getProperty('iconP2.angle'))
+        setProperty('dead.x', getProperty('iconP1.x') + 209)
+        setProperty('dead.angle', getProperty('iconP1.angle'))
         setProperty('dead.y', getProperty('iconP1.y') - 50)
-        setProperty('dead.scale.x', getProperty('iconP2.scale.x'))
-	setProperty('dead.scale.y', getProperty('iconP2.scale.y'))
+        setProperty('dead.scale.x', getProperty('iconP1.scale.x'))
+	setProperty('dead.scale.y', getProperty('iconP1.scale.y'))
 
        if getProperty('health') > 1.6 then
         setProperty('normal.visible', false) 

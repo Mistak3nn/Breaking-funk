@@ -81,6 +81,22 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Breaking Funk Team'],
+			['Goobdoodlez',			'alex',		'Main Artist/Director',						'https://twitter.com/goobdoodlez',		'C30085'],
+			['Gratch the echidna',			'ashura',		'chromatic maker / animator',						'https://twitter.com/GratchEchidna',		'C30085'],	
+			['Mey',			'mey',		'Charter',						'https://youtu.be/UzDtzk1gEw0',		'C30085'],	
+			['Mistaken',			'mistaken',		'Coder',						'https://twitter.com/MistakenRar',		'C30085'],
+			['Letranger',			'letran',		'Coder',						'https://twitter.com/LEtranger1980',		'C30085'],
+			['Max',			'max',		'charter/animator',						'https://twitter.com/AssholeNormal',		'C30085'],		
+			['d4',			'd4',		'Charter',						'https://twitter.com/InvalidoEmail',		'C30085'],
+			['Fleferss',			'𝙵𝚕𝚎𝚏𝚎𝚛𝚜𝚜',		'Artist',						'https://twitter.com/Fleferss',		'C30085'],
+			['polli',			'polli',		'Artist',						'https://twitter.com/potopollo_po',		'C30085'],		
+			['edgar',			'edgar',		'Artist',						'https://twitter.com/Andresi19711761',		'C30085'],
+			['safedean',			'safedean',		'musician',						'https://twitter.com/JASPBv',		'C30085'],		
+			['fehc',			'fehc',		'musician',						'https://twitter.com/fehcyou',		'C30085'],	
+			['i really enjoyed work with yall guys -mistaken'],		
+			[''],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
